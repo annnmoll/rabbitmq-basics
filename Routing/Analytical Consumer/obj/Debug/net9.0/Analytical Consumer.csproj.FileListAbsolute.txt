@@ -1,0 +1,18 @@
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\bin\Debug\net9.0\Analytical Consumer.exe
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\bin\Debug\net9.0\Analytical Consumer.deps.json
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\bin\Debug\net9.0\Analytical Consumer.runtimeconfig.json
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\bin\Debug\net9.0\Analytical Consumer.dll
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\bin\Debug\net9.0\Analytical Consumer.pdb
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.csproj.AssemblyReference.cache
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.AssemblyInfoInputs.cache
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.AssemblyInfo.cs
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.csproj.CoreCompileInputs.cache
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.sourcelink.json
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytic.FE7F68E7.Up2Date
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.dll
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\refint\Analytical Consumer.dll
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.pdb
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\Analytical Consumer.genruntimeconfig.cache
+C:\Rabbit MQ Demo\Routing\Analytical Consumer\obj\Debug\net9.0\ref\Analytical Consumer.dll
