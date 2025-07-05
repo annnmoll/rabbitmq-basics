@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Rabbit MQ Demo\\Producer\\Producer.csproj": {}
+    "C:\\Rabbit MQ Demo\\Hello World\\Producer\\Producer.csproj": {}
   },
   "projects": {
-    "C:\\Rabbit MQ Demo\\Producer\\Producer.csproj": {
+    "C:\\Rabbit MQ Demo\\Hello World\\Producer\\Producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rabbit MQ Demo\\Producer\\Producer.csproj",
+        "projectUniqueName": "C:\\Rabbit MQ Demo\\Hello World\\Producer\\Producer.csproj",
         "projectName": "Producer",
-        "projectPath": "C:\\Rabbit MQ Demo\\Producer\\Producer.csproj",
+        "projectPath": "C:\\Rabbit MQ Demo\\Hello World\\Producer\\Producer.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Rabbit MQ Demo\\Producer\\obj\\",
+        "outputPath": "C:\\Rabbit MQ Demo\\Hello World\\Producer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

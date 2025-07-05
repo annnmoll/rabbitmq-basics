@@ -1,0 +1,55 @@
+﻿using System;
+using System.Text;
+using System.Threading.Tasks;
+using RabbitMQ.Client;
+using RabbitMQ.Client.Events;
+
+class Program
+{
+    static async Task Main(string[] args)
+    {
+        var factory = new ConnectionFactory() { HostName = "localhost" };
+
+        // Connect asynchronously
+        var connection =  factory.CreateConnection(); // ✅ await it
+        var channel = connection.CreateModel(); // ✅ works fine
+
+
+        channel.ExchangeDeclare(
+            exchange: "pubsub",
+            type: ExchangeType.Fanout,
+            durable: false,
+            autoDelete: false,
+            arguments: null
+        );
+        // Declare queue asynchronously
+        var queueName =  channel.QueueDeclare().QueueName;
+        var consumer = new EventingBasicConsumer(channel);
+        channel.QueueBind(queue: queueName, exchange: "pubsub", routingKey: "");
+        
+
+        consumer.Received += (model, ea) =>
+        {
+            var body = ea.Body.ToArray();
+            var message = Encoding.UTF8.GetString(body);
+            Console.WriteLine(" [x] Received {0}", message);
+        };
+
+        // Start consuming messages
+        channel.BasicConsume(
+            queue: queueName,
+            autoAck: true,
+            consumer: consumer
+        );
+
+    
+
+
+        Console.WriteLine(" Press [enter] to exit.");
+        Console.ReadLine();
+
+        // Cleanup
+        channel.Close();
+        connection.Close();
+    }
+}
