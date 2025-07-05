@@ -1,0 +1,35 @@
+C:\Rabbit MQ Demo\Producer\bin\Debug\net9.0\Producer.exe
+C:\Rabbit MQ Demo\Producer\bin\Debug\net9.0\Producer.deps.json
+C:\Rabbit MQ Demo\Producer\bin\Debug\net9.0\Producer.runtimeconfig.json
+C:\Rabbit MQ Demo\Producer\bin\Debug\net9.0\Producer.dll
+C:\Rabbit MQ Demo\Producer\bin\Debug\net9.0\Producer.pdb
+C:\Rabbit MQ Demo\Producer\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.csproj.AssemblyReference.cache
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.AssemblyInfoInputs.cache
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.AssemblyInfo.cs
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.csproj.CoreCompileInputs.cache
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.csproj.Up2Date
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.dll
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\refint\Producer.dll
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.pdb
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\Producer.genruntimeconfig.cache
+C:\Rabbit MQ Demo\Producer\obj\Debug\net9.0\ref\Producer.dll
+C:\Rabbit MQ Demo\Competing Consumer\Producer\bin\Debug\net9.0\Producer.exe
+C:\Rabbit MQ Demo\Competing Consumer\Producer\bin\Debug\net9.0\Producer.deps.json
+C:\Rabbit MQ Demo\Competing Consumer\Producer\bin\Debug\net9.0\Producer.runtimeconfig.json
+C:\Rabbit MQ Demo\Competing Consumer\Producer\bin\Debug\net9.0\Producer.dll
+C:\Rabbit MQ Demo\Competing Consumer\Producer\bin\Debug\net9.0\Producer.pdb
+C:\Rabbit MQ Demo\Competing Consumer\Producer\bin\Debug\net9.0\RabbitMQ.Client.dll
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.csproj.AssemblyReference.cache
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.AssemblyInfoInputs.cache
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.AssemblyInfo.cs
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.csproj.CoreCompileInputs.cache
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.sourcelink.json
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.csproj.Up2Date
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.dll
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\refint\Producer.dll
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.pdb
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\Producer.genruntimeconfig.cache
+C:\Rabbit MQ Demo\Competing Consumer\Producer\obj\Debug\net9.0\ref\Producer.dll
